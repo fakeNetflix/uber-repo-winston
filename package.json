@@ -1,5 +1,5 @@
 {
-  "name": "winston",
+  "name": "winston-uber",
   "description": "A multi-transport async logging library for Node.js",
   "version": "0.7.3",
   "author": "Nodejitsu Inc. <info@nodejitsu.com>",
