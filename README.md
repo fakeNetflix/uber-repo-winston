@@ -1,4 +1,5 @@
-# winston [![Build Status](https://secure.travis-ci.org/flatiron/winston.png?branch=master)](http://travis-ci.org/flatiron/winston)
+# winston-uber
+[![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url]
 
 A multi-transport async logging library for node.js. <span style="font-size:28px; font-weight:bold;">&quot;CHILL WINSTON! ... I put it in the logs.&quot;</span>
 
@@ -10,7 +11,7 @@ There also seemed to be a lot of logging libraries out there that coupled their 
 ## Installation
 
 ```bash
-npm install winston
+npm install winston-uber
 ```
 
 ## Usage
@@ -893,3 +894,8 @@ All of the winston tests are written in [vows][9], and designed to be run with n
 [22]: https://github.com/flite/winston-graylog2
 [23]: https://github.com/kenperkins/winston-papertrail
 [24]: https://github.com/jorgebay/winston-cassandra
+
+[npm-image]: https://badge.fury.io/js/winston-uber.svg
+[npm-url]: https://npmjs.org/package/winston-uber
+[travis-image]: https://travis-ci.org/uber/winston.svg?branch=master
+[travis-url]: https://travis-ci.org/uber/winston
